@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Replace the logo link with your actual logo URL -->
-  <img src="https://kruskalcode.com/logo.png" alt="KruskalCode Logo" width="200"/>
+  <img src="https://kruskalcode.com/wp-content/uploads/cropped-kruskal-code-png-8-3.png" alt="KruskalCode Logo" width="200"/>
 </p>
 
 ---
